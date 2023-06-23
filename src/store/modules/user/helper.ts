@@ -16,7 +16,7 @@ export function defaultSetting(): UserState {
   return {
     userInfo: {
       avatar: 'https://raw.githubusercontent.com/walterclozet/chatgpt-web/main/src/assets/nico.jpg',
-      name: 'ChenZhaoYu',
+      name: 'Walter Clozet',
       description: 'welcome to <a href="https://wang.cou.ink" class="text-blue-500" target="_blank" >my site</a>',
     },
   }
