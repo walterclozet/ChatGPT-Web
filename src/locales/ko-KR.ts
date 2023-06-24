@@ -72,6 +72,7 @@ export default {
     socks: 'Socks',
     httpsProxy: 'HTTPS 프록시',
     balance: 'API 잔액',
+    accessTokenExpirationTime: '개발',
     monthlyUsage: '월 사용량',
   },
   store: {

@@ -72,6 +72,7 @@ export default {
     socks: 'Socks',
     httpsProxy: 'HTTPS-прокси',
     balance: 'Баланс API',
+    accessTokenExpirationTime: 'Время',
     monthlyUsage: 'Ежемесячное использование',
   },
   store: {

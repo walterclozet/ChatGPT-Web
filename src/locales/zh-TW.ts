@@ -72,6 +72,7 @@ export default {
     socks: 'Socks',
     httpsProxy: 'HTTPS Proxy',
     balance: 'API Credit 餘額',
+    accessTokenExpirationTime: '过期時間',
     monthlyUsage: '本月使用量',
   },
   store: {
