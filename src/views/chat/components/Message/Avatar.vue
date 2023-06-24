@@ -22,7 +22,7 @@ const avatar = computed(() => userStore.userInfo.avatar)
   </template>
   <span v-else class="text-[28px] dark:text-white">
 <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
- width="32.000000pt" height="32.000000pt" viewBox="0 0 128.000000 128.000000"
+ width="24.000000pt" height="24.000000pt" viewBox="0 0 128.000000 128.000000"
  preserveAspectRatio="xMidYMid meet">
 <metadata>
 Created by potrace 1.10, written by Peter Selinger 2001-2011
